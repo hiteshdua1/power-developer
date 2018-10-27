@@ -1,0 +1,2 @@
+cat cut-data.txt | cut -c 1-5
+cat cut-data.txt | cut -d "," 3

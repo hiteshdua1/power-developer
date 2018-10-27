@@ -1,0 +1,2 @@
+cat grep-data.txt | grep "Ind.*"
+cat grep-data.txt | grep ".*age$"
